@@ -37,3 +37,5 @@ f) Deletion at the end of the set: **1** step.
 Normally the search operation in an array looks for the first instance of a given value. But sometimes we may want to look for every instance of a given value. For example, say we want to count how many times the value "apple" is found inside an array. How many steps would it take to find all the "apples"? Give you answer in terms of _N_.
 
 It would take _**N**_ steps.
+
+

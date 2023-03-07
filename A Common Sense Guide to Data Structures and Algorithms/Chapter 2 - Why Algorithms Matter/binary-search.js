@@ -30,4 +30,3 @@ function binarySearch(arr, searchValue) {
   return `${searchValue} not found in array`;
 }
 
-console.log(binarySearch([3, 17, 75, 80, 202], 80));
